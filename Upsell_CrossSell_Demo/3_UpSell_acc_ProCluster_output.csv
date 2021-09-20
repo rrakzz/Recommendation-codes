@@ -1,0 +1,12 @@
+Product ,Type,EOS,Capacity_Gbps,Target,Rank
+PA-7080,Security Appliance Firewall- HW Model,No,687.0,PA-5060,1
+PA-7080,Security Appliance Firewall- HW Model,No,687.0,PA-5250,1
+PA-7050,Security Appliance Firewall- HW Model,No,416.0,PA-5060,2
+PA-7050,Security Appliance Firewall- HW Model,No,416.0,PA-5250,2
+PA-5450,Security Appliance Firewall- HW Model,No,200.0,PA-5060,3
+PA-5450,Security Appliance Firewall- HW Model,No,200.0,PA-5250,3
+PA-5260,Security Appliance Firewall- HW Model,No,60.0,PA-5060,4
+PA-5280,Security Appliance Firewall- HW Model,No,60.0,PA-5060,4
+PA-5260,Security Appliance Firewall- HW Model,No,60.0,PA-5250,4
+PA-5280,Security Appliance Firewall- HW Model,No,60.0,PA-5250,4
+PA-5250,Security Appliance Firewall- HW Model,No,37.0,PA-5060,5
